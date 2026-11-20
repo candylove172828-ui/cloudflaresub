@@ -11,4 +11,4 @@ run_worker_first = ["/api/*", "/sub/*"]
 
 [[kv_namespaces]]
 binding = "SUB_STORE"
-id = "d4c40f32fdab449b912aed5ecbcbb3c5"
+id = "d4c40f32fdab449b912aed5eccbbb3c5"
